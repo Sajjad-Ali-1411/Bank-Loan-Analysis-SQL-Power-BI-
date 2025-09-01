@@ -10,11 +10,11 @@ This helps the bank in **decision-making, risk analysis, and customer targeting*
 
 Banks often face challenges in managing loan portfolios due to defaults and high-risk customers. The goal of this project is to:
 
-Analyze loan data to track performance.
+1. Analyze loan data to track performance.
 
-Identify good vs. bad loans.
+2. Identify good vs. bad loans.
 
-Provide actionable insights for risk mitigation and business growth.
+3. Provide actionable insights for risk mitigation and business growth.
 
 ---
 
@@ -51,7 +51,7 @@ Provide actionable insights for risk mitigation and business growth.
    - Matched SQL outputs with Power BI dashboards to validate results.
 
 2. **Power BI Dashboard**
-   - KPIs: Total Applications, Funded Loans, Funded Amount.
+   - KPIs: Total Loan Applications, Total Funded Amount, Total Received Amount, Interest Rate, DTI(Debt to Income) Rate.
    - Charts:
      - Loan Status Distribution
      - Loan Purpose Analysis
@@ -83,17 +83,17 @@ Provide actionable insights for risk mitigation and business growth.
 
 ## 💡 Business Recommendations
 
-Apply stricter credit checks for Grades E, F, G and 60-month loans.
+- Apply stricter credit checks for Grades E, F, G and 60-month loans.
 
-Encourage borrowers to opt for 36-month loans with slightly lower rates.
+- Encourage borrowers to opt for 36-month loans with slightly lower rates.
 
-Focus marketing efforts on stable borrowers (homeowners, 10+ years of employment).
+- Focus marketing efforts on stable borrowers (homeowners, 10+ years of employment).
 
-Create special loan products for debt consolidation with risk safeguards.
+- Create special loan products for debt consolidation with risk safeguards.
 
-Use predictive analytics to identify high DTI & high-interest applicants at risk of default.
+- Use predictive analytics to identify high DTI & high-interest applicants at risk of default.
 
-Adjust loan policies around seasonal peaks (Nov–Dec) to balance demand and risk
+- Adjust loan policies around seasonal peaks (Nov–Dec) to balance demand and risk
 
 ---
 
@@ -109,7 +109,7 @@ This analysis enables the bank to:
 - Document with insights & solutions.
 - Power BI dashboard screenshot.
 - README.md → Project summary (this file).
-- 
+- Power BI file
 ---
 
 ## 🔹 Author
