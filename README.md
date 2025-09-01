@@ -20,13 +20,13 @@ Banks often face challenges in managing loan portfolios due to defaults and high
 
 ## 📊 Dashboard Preview
 
-# SUMMARY
+## SUMMARY
 <img width="1426" height="801" alt="Summary" src="https://github.com/user-attachments/assets/f4f6778c-bb8b-44d4-bb12-ee0afe8d1f79" />
 
-# OVERVIEW
+## OVERVIEW
 <img width="1424" height="798" alt="Overview" src="https://github.com/user-attachments/assets/68d00d75-20dc-406f-aa6c-d61147e8dffa" />
 
-# Customer Details
+## Customer Details
 <img width="1425" height="805" alt="Details" src="https://github.com/user-attachments/assets/c4146ac0-a057-4c6b-a2b8-f409a5ab2812" />
 
 ---
@@ -110,6 +110,16 @@ This analysis enables the bank to:
 - Power BI dashboard screenshot.
 - README.md → Project summary (this file).
 - Power BI file
+---
+
+## 📌 Project Learnings
+
+- Strengthened SQL skills for real-world data cleaning & analysis.
+
+- Built interactive dashboards in Power BI for business decision-making.
+
+- Understood loan risk patterns and customer segmentation strategies.
+
 ---
 
 ## 🔹 Author
